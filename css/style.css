@@ -1,0 +1,26 @@
+.admintitle{
+	background-color:black;
+	color:white;
+	margin-left:50px;
+	margin-right:50px;
+	height:130px;
+	line-height:130px;
+}
+.logout{
+	background-color:aqua;
+	margin-right:30px; 
+	float:right; 
+	color:white; 
+	border:1;
+}
+.back:hover,.logout:hover{
+	background-color:white;
+	color:black;
+}
+.back{
+	background-color:aqua;
+	margin-left:30px; 
+	float:left; 
+	color:white; 
+	border:1;
+}

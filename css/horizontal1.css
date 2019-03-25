@@ -1,0 +1,28 @@
+.admindashboard{
+	background-color:aqua;
+	height:44px;
+	font-size:25px;
+	margin-left:50px;
+	margin-right:50px;
+}
+.admindashboard ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+.admindashboard ul li{
+	display:inline;
+	padding:15px;
+	vertical-align:middle;
+}
+.admindashboard ul li a{
+	text-decoration:none;
+	color:black;
+	padding:8px;
+	vertical-align:middle;
+}
+.admindashboard ul li a:hover{
+	background-color:black;
+	color:white;
+}
